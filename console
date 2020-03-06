@@ -13,3 +13,5 @@ rule1 1
 PowerOnState 0
 
 grouptopic house/color
+
+###CONFIG MQTT
